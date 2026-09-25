@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, block walls, and outdoor hardscape. Across Fontana and the Inland Empire. Juan looks at the job first and puts the price in writing.';
+            'Landscaping, block walls, and outdoor hardscape in Fontana. Juan looks at the job first and puts the price in writing.';
         }
       }
     },
